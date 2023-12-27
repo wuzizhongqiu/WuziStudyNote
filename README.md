@@ -27,8 +27,8 @@
 
 ## LeetCode 算法专题训练
 
-* [数组](https://github.com/wuzizhongqiu/wuzi-study-note/tree/main/LeetCode%E7%AE%97%E6%B3%95%E4%B8%93%E9%A2%98%E7%BB%83%E4%B9%A0/%E6%95%B0%E7%BB%84)
-    * [二分查找](https://github.com/wuzizhongqiu/wuzi-study-note/blob/main/LeetCode%E7%AE%97%E6%B3%95%E4%B8%93%E9%A2%98%E7%BB%83%E4%B9%A0/%E6%95%B0%E7%BB%84/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+* 数组
+    * 二分查找
     * 
 * 链表
 * 二叉树
