@@ -39,9 +39,25 @@
 ## Linux 学习
 
 * 环境搭建
+    * [手把手带你用云服务器搭建 Linux 环境](https://blog.csdn.net/Locky136/article/details/130129941)
+
 * Linux常见指令与权限理解
+    * [Linux 基本指令（上）](https://blog.csdn.net/Locky136/article/details/130277372)
+    * [Linux 基本指令（中）](https://blog.csdn.net/Locky136/article/details/130353126)
+    * [Linux 基本指令（下）](https://blog.csdn.net/Locky136/article/details/130655812)
+    * [理解 Linux 权限](https://blog.csdn.net/Locky136/article/details/130663499)
+    * [centos7 下给用户添加 sudo 权限](https://blog.csdn.net/Locky136/article/details/131022002)
+
 * Linux环境基础开发工具
+    * [软件管理包-yum](https://blog.csdn.net/Locky136/article/details/130781283)
+    * [编辑器-vim](https://blog.csdn.net/Locky136/article/details/130784207)
+    * [编译器-gcc/g++](https://blog.csdn.net/Locky136/article/details/130777719)
+    * [自动化构建工具-Makefile](https://blog.csdn.net/Locky136/article/details/131791662)
+    * [调试器-gdb](https://blog.csdn.net/Locky136/article/details/131789741)
+
 * 理解冯诺依曼体系结构
+    * [冯诺依曼体系结构与进程概念](https://blog.csdn.net/Locky136/article/details/132121034)
+
 
 
 
